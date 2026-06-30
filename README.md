@@ -38,6 +38,8 @@ Python/PySide6 fake desktop horror UI prototype focused on simulated desktop UI 
 
 Small educational web app for practicing analog clock reading and English time expressions.
 
+[Live demo](https://analog-clock-trainer.vercel.app)
+
 ## Current Focus
 
 - AI-assisted development workflows
