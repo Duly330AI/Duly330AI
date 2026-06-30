@@ -22,6 +22,8 @@ Paper-trading and AI-assisted market analysis dashboard with structured prompt g
 
 Educational math training app for practicing written calculation methods, with student profiles, exercise flow, feedback, and learning-oriented UI.
 
+[Live demo](https://matheheft-digital.vercel.app)
+
 ### Abalone Multiplayer
 
 Realtime Abalone-inspired board game prototype focused on multiplayer flow, board-state synchronization, and move validation.
