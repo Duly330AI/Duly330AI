@@ -2,7 +2,15 @@
 
 I build AI-assisted tools, simulations, learning apps, and interactive prototypes.
 
-My projects are mostly portfolio prototypes and learning systems built with a focus on structure, iteration, and practical workflows. I use AI coding agents as part of my development process, but I care about keeping projects understandable, documented, and honest about their current status.
+My projects are mostly portfolio prototypes, functional MVPs, and learning systems built with a focus on structure, iteration, practical workflows, and clear documentation. I use AI coding agents as part of my development workflow, while focusing on architecture, review, testing where available, documentation, and honest project status.
+
+## Portfolio Map
+
+- **AI / dashboards:** MarketOps-AI
+- **Learning apps:** matheheft-digital, analog-clock-trainer
+- **Realtime / game logic:** Abalone-Multiplayer, dbdg
+- **UI experiments:** winfake
+- **Simulation work:** public experiments plus private Unity/C# work
 
 ## Featured Projects
 
@@ -16,7 +24,7 @@ Educational math training app for practicing written calculation methods, with s
 
 ### Abalone Multiplayer
 
-Real-time two-player browser prototype of the classic Abalone board game concept, focused on multiplayer flow, board-state synchronization, and move validation.
+Realtime Abalone-inspired board game prototype focused on multiplayer flow, board-state synchronization, and move validation.
 
 ### DBDG
 
@@ -24,11 +32,11 @@ Small Python/Pygame cave puzzle game inspired by classic tile-based digging game
 
 ### winfake
 
-Windows-inspired fake desktop horror prototype built with Python and PySide6, focused on simulated desktop UI and scripted unsettling interactions.
+Python/PySide6 fake desktop horror UI prototype focused on simulated desktop UI and scripted unsettling interactions.
 
-### CRT Clock Reading Trainer
+### analog-clock-trainer
 
-Small educational web app for practicing analog clock reading in English.
+Small educational web app for practicing analog clock reading and English time expressions.
 
 ## Current Focus
 
@@ -44,10 +52,10 @@ Small educational web app for practicing analog clock reading in English.
 - TypeScript / React / Vite
 - Python / Pygame / PySide6
 - Node.js / Express / Socket.io
-- Godot / GDScript
-- Unity / C#
+- Godot / GDScript for experimental prototypes
+- Unity / C# for private simulation work
 - GitHub, VS Code, and AI coding agents
 
 ## Note
 
-Most repositories are prototypes, portfolio projects, or learning systems. I prefer honest project status over inflated claims.
+Most repositories are prototypes, portfolio projects, functional MVPs, or learning systems. I prefer honest project status over inflated claims.
