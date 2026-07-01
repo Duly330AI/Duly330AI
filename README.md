@@ -18,6 +18,8 @@ My projects are mostly portfolio prototypes, functional MVPs, and learning syste
 
 Paper-trading and AI-assisted market analysis dashboard with structured prompt generation, manual JSON import, forecast tracking, alerts, and simulated portfolio workflows.
 
+[Live demo](https://marketops-ai-static-demo.vercel.app)
+
 ### Matheheft Digital
 
 Educational math training app for practicing written calculation methods, with student profiles, exercise flow, feedback, and learning-oriented UI.
