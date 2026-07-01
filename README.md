@@ -7,6 +7,7 @@ My projects are mostly portfolio prototypes, functional MVPs, and learning syste
 ## Portfolio Map
 
 - **AI / dashboards:** MarketOps-AI
+- **Full-stack / backend:** [UVM](https://github.com/Duly330AI/uvm) — Django-based property management MVP with PostgreSQL, Redis, Celery, Docker, and tests.
 - **Learning apps:** matheheft-digital, analog-clock-trainer
 - **Realtime / game logic:** Abalone-Multiplayer, dbdg
 - **UI experiments:** winfake
