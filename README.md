@@ -1,6 +1,6 @@
 # Hi, I'm Duly
 
-I build AI-assisted tools, simulations, learning apps, and interactive prototypes.
+I build AI-assisted tools, backend systems, learning apps, simulations, and practical utilities.
 
 My projects are mostly portfolio prototypes, functional MVPs, and learning systems built with a focus on structure, iteration, practical workflows, and clear documentation. I use AI coding agents as part of my development workflow, while focusing on architecture, review, testing where available, documentation, and honest project status.
 
@@ -8,10 +8,11 @@ My projects are mostly portfolio prototypes, functional MVPs, and learning syste
 
 - **AI / dashboards:** MarketOps-AI
 - **Full-stack / backend:** [UVM](https://github.com/Duly330AI/uvm) — Django-based property management MVP with PostgreSQL, Redis, Celery, Docker, and tests.
+- **Practical utilities:** [win-load-report](https://github.com/Duly330AI/win-load-report) — Read-only PowerShell CLI for Windows performance, startup, reboot, and network snapshots with TXT/JSON export.
 - **Learning apps:** matheheft-digital, analog-clock-trainer
 - **Realtime / game logic:** Abalone-Multiplayer, dbdg
 - **UI experiments:** winfake
-- **Simulation work:** public experiments plus private Unity/C# work
+- **Simulation work:** public experiments and prototype systems
 
 ## Featured Projects
 
@@ -60,7 +61,6 @@ Small educational web app for practicing analog clock reading and English time e
 - Python / Pygame / PySide6
 - Node.js / Express / Socket.io
 - Godot / GDScript for experimental prototypes
-- Unity / C# for private simulation work
 - GitHub, VS Code, and AI coding agents
 
 ## Note
